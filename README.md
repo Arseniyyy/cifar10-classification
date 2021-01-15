@@ -1,0 +1,1 @@
+The model reaches over 83% of accuracy on the cifar10 dataset
